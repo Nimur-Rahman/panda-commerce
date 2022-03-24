@@ -1,0 +1,35 @@
+.carousel-inner {
+    background-color: #FCEAE8;
+}
+
+.price {
+    font-size: 50px;
+    font-weight: bold;
+    color: #FF136F;
+}
+
+.buy-now-button {
+    background-color: #FF3B89;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.first {
+    background-image: linear-gradient(#FFA500, #FFA500);
+
+}
+
+.second {
+    background-color: #DA70D6;
+}
+
+.third {
+    background-color: Shoes;
+}
