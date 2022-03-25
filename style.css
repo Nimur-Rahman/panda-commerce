@@ -3,7 +3,7 @@
 }
 
 .price {
-    font-size: 50px;
+    font-size: 30px;
     font-weight: bold;
     color: #FF136F;
 }
@@ -31,5 +31,13 @@ h1 {
 }
 
 .third {
-    background-color: Shoes;
+    background-color: blue;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.box {
+    background-color: #FFA500;
 }
